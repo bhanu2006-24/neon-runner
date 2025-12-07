@@ -13,7 +13,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://bhanu2006-24.github.io/neon-runner/)
 [![HTML5](https://img.shields.io/badge/HTML5-Canvas-orange.svg)]()
 
-[Play Now](#how-to-play) • [Features](#features) • [Controls](#controls) • [License](#license)
+[Play Now](#how-to-play) • [Features](#features) • [Controls](#controls) • [Author](#-author) • [License](#license)
 
 </div>
 
@@ -29,6 +29,52 @@ Experience retro 80s synthwave aesthetics with:
 - ⚡ Particle effects and smooth animations
 - 🎵 Procedurally generated chiptune music
 - 📱 Full mobile support with touch controls
+
+---
+
+## 🎬 Game Screenshots
+
+<div align="center">
+
+### 🏃 Gameplay Action
+<table>
+<tr>
+<td width="50%">
+<img src="public/gameplay.png" alt="Main Gameplay" />
+<p align="center"><em>Navigate neon platforms in the cyber city</em></p>
+</td>
+<td width="50%">
+<img src="public/runner.png" alt="Runner Action" />
+<p align="center"><em>High-speed running through obstacles</em></p>
+</td>
+</tr>
+</table>
+
+### ⚔️ Boss Battles
+<table>
+<tr>
+<td width="33%">
+<img src="public/boss_battle.png" alt="Boss Battle 1" />
+<p align="center"><em>Firewall Prime encounter</em></p>
+</td>
+<td width="33%">
+<img src="public/bossfight.png" alt="Boss Battle 2" />
+<p align="center"><em>Epic boss showdown</em></p>
+</td>
+<td width="33%">
+<img src="public/boss1.png" alt="Boss Battle 3" />
+<p align="center"><em>Intense boss combat</em></p>
+</td>
+</tr>
+</table>
+
+### 💀 Game Over
+<p align="center">
+<img src="public/lost.png" alt="Game Over Screen" width="60%" />
+<br><em>System failure - Try again!</em>
+</p>
+
+</div>
 
 ---
 
@@ -59,16 +105,6 @@ Experience retro 80s synthwave aesthetics with:
 - **Responsive**: Adapts to any screen size
 
 ---
-
-## 🎮 Gameplay Screenshots
-
-### Normal Gameplay
-![Gameplay](public/gameplay.png)
-*Navigate neon platforms while avoiding spike traps in the cyber city*
-
-### Boss Battle
-![Boss Battle](public/boss_battle.png)
-*Epic showdown with Firewall Prime - dodge projectiles and fight back!*
 
 ---
 
@@ -194,7 +230,53 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Bhanupratap Saini**
+<div align="center">
+
+### Bhanupratap Saini
+
+**Full-Stack Developer | Game Developer | Open Source Enthusiast**
+
+[![GitHub](https://img.shields.io/badge/GitHub-bhanu2006--24-181717?style=for-the-badge&logo=github)](https://github.com/bhanu2006-24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhanu2006-24.github.io/neon-runner/)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+Passionate developer crafting interactive experiences with a focus on:
+- 🎮 **Game Development**: Building engaging browser-based games with vanilla JavaScript
+- 💻 **Web Development**: Creating responsive, performant web applications
+- 🎨 **UI/UX Design**: Designing visually stunning interfaces with modern aesthetics
+- ⚡ **Performance**: Optimizing code for smooth 60 FPS experiences
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- JavaScript (ES6+), HTML5, CSS3
+- Canvas API, WebAudio API
+- React, Node.js
+
+**Game Development:**
+- HTML5 Canvas rendering
+- Procedural generation algorithms
+- Physics simulations
+- Real-time audio synthesis
+
+**Tools & Practices:**
+- Git & GitHub
+- Responsive design
+- Object-oriented programming
+- Game optimization techniques
+
+### 📫 Get in Touch
+
+Interested in collaborating or want to discuss game development? Feel free to reach out!
+
+- 💼 Check out my other projects on [GitHub](https://github.com/bhanu2006-24)
+- 🎮 Play my games and provide feedback
+- 🌟 Star this repo if you enjoyed the game!
 
 ---
 
